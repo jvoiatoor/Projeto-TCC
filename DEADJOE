@@ -1,0 +1,29 @@
+
+*** These modified files were found in JOE when it aborted on Wed Apr  3 09:29:20 2019
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+syntax
+syntax
+
+*** File '(Unnamed)'
+root
+root
+
+*** File '(Unnamed)'
+/media/aluno/JOAO/Projeto-TCC/.git/COMMIT_EDITMSG
+
+*** File '/media/aluno/JOAO/Projeto-TCC/.git/COMMIT_EDITMSG'
+#with '#' will be ignored, and an empty message aborts the commit.
+#No ramo master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Mudanças a serem submetidas:
+#	modified:   Casos_de_uso_JoaoVitor.asta
+#
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
